@@ -1,0 +1,15 @@
+---
+matchspec: 
+  - title: 2022-2 결승전 2세트
+  - stage: GF/2
+  - number: 1
+  - date: 2022-10-01
+rule:
+  - head_to_head: true
+  - points: 3
+---
+NEAL	이재혁	트랙
+0	1	아이스 갈라진 빙산
+1	0	도검 야외 수련관
+1	0	해적 숨겨진 보물
+1	0	어비스 스카이라인

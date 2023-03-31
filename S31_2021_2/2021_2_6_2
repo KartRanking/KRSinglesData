@@ -1,0 +1,15 @@
+---
+matchspec: 
+  - title: 2021-2 결승전 2세트
+  - stage: GF/2
+  - number: 1
+  - date: 2021-10-09
+rule:
+  - head_to_head: true
+  - points: 3
+---
+이재혁	유창현	트랙
+1	0	팩토리 미완성 5구역
+1	0	동화 마녀의 성
+0	1	황금문명 비밀장치의 위협
+1	0	절망의 카타콤

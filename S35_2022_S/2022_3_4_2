@@ -1,0 +1,15 @@
+---
+matchspec: 
+  - title: 2022-S 결승전 2세트
+  - stage: GF/2
+  - number: 1
+  - date: 2022-10-01
+rule:
+  - head_to_head: true
+  - points: 3
+---
+이재혁	박인수	트랙
+1	0	노르테유 전투비행장
+1	0	노르테유 익스프레스
+0	1	광산 위험한 제련소
+1	0	월드 이탈리아 피사의 사탑
