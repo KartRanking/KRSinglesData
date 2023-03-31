@@ -1,0 +1,14 @@
+---
+matchspec: 
+  - title: 듀얼 레이스 결승전 3세트
+  - stage: GF/3
+  - number: 1
+  - date: 2016-10-29
+rule:
+  - head_to_head: true
+  - points: 3
+---
+유영혁	김승태	트랙
+1	0	비치 해변 드라이브
+1	0	해적 숨겨진 보물
+1	0	팩토리 미완성 5구역

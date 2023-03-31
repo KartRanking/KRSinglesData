@@ -1,0 +1,15 @@
+---
+matchspec: 
+  - title: 2019-1 결승전 2세트
+  - stage: GF/2
+  - number: 1
+  - date: 2019-03-23
+rule:
+  - head_to_head: true
+  - points: 3
+---
+문호준	박인수	트랙
+0	1	월드 두바이 다운타운
+1	0	신화 신들의 세계
+1	0	차이나 서안 병마용
+1	0	도검 구름의 협곡

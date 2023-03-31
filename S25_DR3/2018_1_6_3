@@ -1,0 +1,14 @@
+---
+matchspec: 
+  - title: 듀얼 레이스 3 결승전 3세트
+  - stage: GF/3
+  - number: 1
+  - date: 2018-04-07
+rule:
+  - head_to_head: true
+  - points: 2
+---
+문호준	유영혁	트랙
+1	0	빌리지 붐힐터널
+0	1	아이스 설산 다운힐
+1	0	네모 산타의 비밀공간
