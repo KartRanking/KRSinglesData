@@ -1,0 +1,22 @@
+---
+matchspec: 
+  - title: 1차리그 3라운드 조별예선 GROUP D
+  - round: 3
+  - stage: R32
+  - number: 4
+  - date: 2005-06-30
+rule:
+  - rounds: 5
+  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+advances:
+  - players: 4
+  - stage: RF
+tiebreaker: true
+---
+임세선	최의영	김현욱	이홍석	박기호	임종빈	이연규	트랙
+8	4	6	2	7	5	3	포레스트 지그재그
+8	7	6	3	2	4	5	아이스 설산 다운힐
+5	4	8	2	6	3	7	사막 피라미드 탐험
+4	7	6	8	5	3	2	사막 빙글빙글 공사장
+8	0	0	7	6	0	0	광산 꼬불꼬불 다운힐
+	1		0				광산 꼬불꼬불 다운힐

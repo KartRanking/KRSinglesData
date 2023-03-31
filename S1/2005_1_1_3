@@ -1,0 +1,18 @@
+---
+matchspec: 
+  - title: 1차리그 1라운드 조별예선 GROUP C
+  - round: 1
+  - stage: R32
+  - number: 3
+  - date: 2005-05-19
+rule:
+  - rounds: 3
+  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+advances:
+  - players: 4
+  - stage: RF
+---
+임세선	김현욱	강승환	홍은표	김영식	권태윤	남재인	강천희	트랙
+7	4	5	6	3	2	8	1	포레스트 지그재그
+5	6	3	7	4	8	2	1	사막 빙글빙글 공사장
+6	5	7	8	4	0	0	0	광산 꼬불꼬불 다운힐

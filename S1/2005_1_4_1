@@ -1,0 +1,21 @@
+---
+matchspec: 
+  - title: 1차리그 2라운드 FINAL GROUP 1
+  - round: 2
+  - stage: RF
+  - number: 1
+  - date: 2005-06-16
+rule:
+  - rounds: 5
+  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  - accumulate: 3
+advances:
+  - players: 1
+  - stage: GF
+---
+조현준	김대겸	남재인	권태윤	김현욱	김윤호	정은석	임동혁	트랙
+6	5	3	8	1	4	7	2	포레스트 지그재그
+2	4	5	1	8	3	7	6	사막 빙글빙글 공사장
+3	5	7	6	2	4	8	1	광산 꼬불꼬불 다운힐
+3	6	7	8	5	1	4	2	아이스 설산 다운힐
+1	7	4	8	2	5	6	3	빌리지 붐힐터널
