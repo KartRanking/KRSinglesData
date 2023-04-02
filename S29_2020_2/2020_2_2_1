@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-2 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2020-09-19
+  title: 2020-2 32강 패자부활전
+  season: 29
+  stage: R32R
+  number: 1
+  date: 2020-09-19
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
 한승철	최영훈	김지민	전대웅	김승래	박도현	정유민	신종민	트랙

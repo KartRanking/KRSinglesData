@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 2라운드 QUARTER FINAL GROUP 2
-  - round: 2
-  - stage: R16
-  - number: 2
-  - date: 2005-12-03
+  title: 2차리그 2라운드 QUARTER FINAL GROUP 2
+  season: 2
+  round: 2
+  stage: R16
+  number: 2
+  date: 2005-12-03
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 최성근	김대겸	한창민	전성일	김현욱	조윤권	이우열	권태윤	트랙
 -1	10	7	3	2	5	0	1	포레스트 지그재그

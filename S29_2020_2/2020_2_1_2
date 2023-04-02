@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-2 32강 B조
-  - stage: R32
-  - number: 2
-  - date: 2020-08-29
+  title: 2020-2 32강 B조
+  season: 29
+  stage: R32
+  number: 2
+  date: 2020-08-29
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 박인수	노준현	유관영	신종민	한승철	윤준혁	임재원	우성민	트랙
 5	4	-1	0	3	1	7	10	카멜롯 펜드래건 캐슬

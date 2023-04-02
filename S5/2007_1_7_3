@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 5차리그 3라운드 조별예선 GROUP C
-  - round: 3
-  - stage: R32
-  - number: 3
-  - date: 2007-04-14
+  title: 5차리그 3라운드 조별예선 GROUP C
+  season: 5
+  round: 3
+  stage: R32
+  number: 3
+  date: 2007-04-14
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 이구응	강정민	김명제	전인권	정영석	장진형	김성직	조형규	트랙
 0	-1	1	10	2	7	5	3	노르테유 익스프레스

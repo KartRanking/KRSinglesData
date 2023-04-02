@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 2021-2 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2021-08-28
+  title: 2021-2 32강 패자부활전
+  season: 31
+  stage: R32R
+  number: 1
+  date: 2021-08-28
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
-안정환	임재원	김지민	한승철	전대웅	고병수	신종민	이홍일	
+안정환	임재원	김지민	한승철	전대웅	고병수	신종민	이홍일	트랙
 1	5	7	4	10	3	0	-1	절망의 카타콤
 7	1	5	-1	4	10	3	0	사막 빙글빙글 공사장
 7	-1	3	10	5	0	1	4	대저택 은밀한 지하실

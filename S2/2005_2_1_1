@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 1라운드 조별예선 GROUP A
-  - round: 1
-  - stage: R32
-  - number: 1
-  - date: 2005-10-22
+  title: 2차리그 1라운드 조별예선 GROUP A
+  season: 2
+  round: 1
+  stage: R32
+  number: 1
+  date: 2005-10-22
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 김대겸	임세선	강승환	이동훈	윤용준	김두만	조윤권	김진용	트랙
 10	1	2	0	5	3	-1	7	포레스트 지그재그

@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 3라운드 FINAL
-  - round: 3
-  - stage: RF
-  - number: 1
-  - date: 2006-04-29
+  title: 3차리그 3라운드 FINAL
+  season: 3
+  round: 3
+  stage: RF
+  number: 1
+  date: 2006-04-29
 rule:
-  - points: 60
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 60
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 1
-  - stage: GF
+  players: 1
+  stage: GF
 comment: "홍은표 불참으로 7인 진행."
 ---
 조현준	김대겸	김진용	조경재	오용환	최의영	한창민	트랙

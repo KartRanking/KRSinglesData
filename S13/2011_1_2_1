@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 13차리그 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2011-04-07
+  title: 13차리그 패자전
+  season: 13
+  stage: R16L
+  number: 1
+  date: 2011-04-07
 rule:
-  - points: 70
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 ---
-박인재	김은일	조성제	김경훈	최영훈	박준혁	박현호	안기준	트랙
+박인재	김은일	조성제	김경훈	최영훈A	박준혁	박현호	안기준	트랙
 10	5	0	3	1	-5	7	2	차이나 골목길 대질주
 5	10	3	0	2	-1	7	1	아이스 부서진 빙산
 3	2	7	0	10	5	1	-1	광산 아슬아슬 궤도 전차

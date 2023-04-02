@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2017-04-08
+  title: 듀얼 레이스 2 결승전 2세트
+  season: 24
+  stage: GF/2
+  number: 1
+  date: 2017-04-08
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 2
-  - stage: GF/3
+  players: 2
+  stage: GF/3
 tiebreaker: true
 ---
 김승태	김정제	유영혁	유창현	트랙

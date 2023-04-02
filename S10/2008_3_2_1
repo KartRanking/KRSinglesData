@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 10차리그 1라운드 FINAL
-  - round: 1
-  - stage: RF
-  - number: 1
-  - date: 2008-10-11
+  title: 10차리그 1라운드 FINAL
+  season: 10
+  round: 1
+  stage: RF
+  number: 1
+  date: 2008-10-11
 rule:
-  - points: 70
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: GF
+  players: 2
+  stage: GF
 ---
 강석인	김진희	장진형	문호준	김선일	정선호	유영혁	박지윤	트랙
 -5	3	7	10	2	-5	5	-5	포레스트 아찔한 다운힐

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2019-03-09
+  title: 2019-1 16강 최종전
+  season: 26
+  stage: R16F
+  number: 1
+  date: 2019-03-09
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 유창현	김응태	황인호	김승래	김승태	이준성	송용준	임재원	트랙
 10	0	5	7	-1	1	4	3	신화 신들의 세계

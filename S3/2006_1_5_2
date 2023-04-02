@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 2라운드 QUARTER FINAL GROUP 2
-  - round: 1
-  - stage: R16
-  - number: 2
-  - date: 2006-03-25
+  title: 3차리그 2라운드 QUARTER FINAL GROUP 2
+  season: 3
+  round: 2
+  stage: R16
+  number: 2
+  date: 2006-03-25
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 한창민	김경한	김형철	임영노	전성일	김선일	김웅진	김진용	트랙
 3	10	1	7	2	-1	0	5	빌리지 고가의 질주

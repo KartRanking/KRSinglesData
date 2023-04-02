@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 12차리그 2차예선 A조
-  - stage: R32
-  - number: 2
-  - date: 2010-10-26
+  title: 12차리그 2차예선 A조
+  season: 12
+  stage: R32
+  number: 2
+  date: 2010-10-26
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 comment: "윤헌상과 김경훈, 4종의 카트바디를 모두 탑승하지 않아 10점 감점."
 ---
 문호준	유영혁	노종환	신하늘	이지우	서은수	윤헌상	김경훈	트랙

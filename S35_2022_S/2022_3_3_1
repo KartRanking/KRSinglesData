@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-S 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2022-11-26
+  title: 2022-S 16강 최종전
+  season: 35
+  stage: R16F
+  number: 1
+  date: 2022-11-26
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 NEAL	박현수	황인호	김우준	김응태	노준현	송용준	김승태	트랙
 10	7	3	1	-1	5	4	0	[리버스] 차이나 골목길 대질주

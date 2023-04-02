@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2022-10-01
+  title: 2022-2 결승전 1세트
+  season: 34
+  stage: GF/1
+  number: 1
+  date: 2022-10-01
 rule:
-  - points: 80
+  points: 80
 advances:
-  - players: 2
-  - stage: GF/2
+  players: 2
+  stage: GF/2
 tiebreaker: true
 ---
 이재혁	배성빈	유창현	박현수	NEAL	박인수	김응태	김우준	트랙

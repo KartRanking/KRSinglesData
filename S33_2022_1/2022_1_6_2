@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2022-1 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2022-04-30
+  title: 2022-1 결승전 2세트
+  season: 33
+  stage: GF/2
+  number: 1
+  date: 2022-04-30
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 박인수	김다원	트랙
 1	0	공동묘지 해골성 대탐험

@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 와일드카드 GROUP 1
-  - round: F
-  - stage: WCQ
-  - number: 1
-  - date: 2005-07-14
+  title: 1차리그 와일드카드 GROUP 1
+  season: 1
+  round: F
+  stage: WCQ
+  number: 1
+  date: 2005-07-14
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: WC
+  players: 4
+  stage: WC
 ---
 김대겸	최대섭	권태윤	박세훈	김현욱	임동혁	김윤호	김만식	트랙
 7	8	5	4	3	2	6	1	포레스트 지그재그

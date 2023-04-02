@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2022-08-13
+  title: 2022-2 32강 D조
+  season: 34
+  stage: R32
+  number: 4
+  date: 2022-08-13
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 윤정현	NEAL	이정우	최용준	전진우	김응태	임재원	최준혁	트랙
 10	3	7	-1	4	0	1	5	잊혀진 모래의 기억

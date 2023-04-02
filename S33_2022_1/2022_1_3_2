@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 16강 2경기
-  - stage: R16
-  - number: 2
-  - date: 2022-04-09
+  title: 2022-1 16강 2경기
+  season: 33
+  stage: R16
+  number: 2
+  date: 2022-04-09
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 ---
 노준현	전대웅	안정환	전진우	배성빈	김다원	김우준	강다훈	트랙
 -1	0	1	4	7	5	10	3	마비노기 바올 던전

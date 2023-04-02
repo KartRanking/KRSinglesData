@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 12차리그 2차예선 B조
-  - stage: R32
-  - number: 4
-  - date: 2010-10-26
+  title: 12차리그 2차예선 B조
+  season: 12
+  stage: R32
+  number: 4
+  date: 2010-10-26
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 ---
 박인재	조경신	박준혁	노진철	이상흔	이성현	송민규	노원준	트랙
 10	7	1	5	3	-5	0	2	[리버스] 해적 로비 절벽의 전투

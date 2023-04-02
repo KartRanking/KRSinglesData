@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2019-01-26
+  title: 2019-1 32강 D조
+  season: 26
+  stage: R32
+  number: 4
+  date: 2019-01-26
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 유창현	김승래	김승태	임재원	양민규	배성빈	현록빈	정승민	트랙
 1	10	-1	7	3	5	0	4	신화 신들의 세계

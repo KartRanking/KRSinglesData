@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 3라운드 조별예선 GROUP A
-  - round: 3
-  - stage: R32
-  - number: 1
-  - date: 2005-12-10
+  title: 2차리그 3라운드 조별예선 GROUP A
+  season: 2
+  round: 3
+  stage: R32
+  number: 1
+  date: 2005-12-10
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 조현준	임동혁	최의영	이우열	박재홍	정은석	김솔	이동훈	트랙
 5	3	7	1	-1	2	10	0	포레스트 지그재그

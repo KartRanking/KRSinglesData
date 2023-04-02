@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2022-2 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2022-10-01
+  title: 2022-2 결승전 2세트
+  season: 34
+  stage: GF/2
+  number: 1
+  date: 2022-10-01
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 NEAL	이재혁	트랙
 0	1	아이스 갈라진 빙산

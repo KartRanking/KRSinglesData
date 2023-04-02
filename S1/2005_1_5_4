@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 3라운드 조별예선 GROUP D
-  - round: 3
-  - stage: R32
-  - number: 4
-  - date: 2005-06-30
+  title: 1차리그 3라운드 조별예선 GROUP D
+  season: 1
+  round: 3
+  stage: R32
+  number: 4
+  date: 2005-06-30
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 tiebreaker: true
 ---
 임세선	최의영	김현욱	이홍석	박기호	임종빈	이연규	트랙

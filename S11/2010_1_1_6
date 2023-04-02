@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 11차리그 2차예선 C조
-  - stage: R32
-  - number: 6
-  - date: 2010-06-03
+  title: 11차리그 2차예선 C조
+  season: 11
+  stage: R32
+  number: 6
+  date: 2010-06-03
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 ---
 유영혁	안한별	이중대	박현호	김현민	이지우	이상흔	김은일	트랙
 7	3	2	10	-5	-5	1	5	광산 아슬아슬 궤도 전차

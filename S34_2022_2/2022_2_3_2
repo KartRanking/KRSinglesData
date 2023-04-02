@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 16강 2경기
-  - stage: R16
-  - number: 2
-  - date: 2022-09-03
+  title: 2022-2 16강 2경기
+  season: 34
+  stage: R16
+  number: 2
+  date: 2022-09-03
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 ---
 NEAL	박인수	박현수	윤정현	김응태	김주영	김승태	김다원	트랙
 5	7	3	10	1	4	-1	0	잊혀진 모래의 기억

@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 9차리그 2라운드 조별예선 GROUP B
-  - round: 2
-  - stage: R32
-  - number: 2
-  - date: 2008-07-12
+  title: 9차리그 2라운드 조별예선 GROUP B
+  season: 9
+  round: 2
+  stage: R32
+  number: 2
+  date: 2008-07-12
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 comment: "박현호의 불참으로 7인 진행."
 ---
 김진희	박지윤	박인재	김선일	김준	이상우	이세웅	트랙

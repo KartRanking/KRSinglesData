@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 3라운드 QUARTER FINAL GROUP 1
-  - round: 3
-  - stage: R16
-  - number: 1
-  - date: 2005-12-24
+  title: 2차리그 3라운드 QUARTER FINAL GROUP 1
+  season: 2
+  round: 3
+  stage: R16
+  number: 1
+  date: 2005-12-24
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 최의영	김솔	한창민	정은석	서형원	윤용준	조남곤	임동혁	트랙
 1	-1	2	3	0	7	5	10	포레스트 지그재그

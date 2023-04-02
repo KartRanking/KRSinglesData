@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 2라운드 조별예선 GROUP A
-  - round: 2
-  - stage: R32
-  - number: 1
-  - date: 2005-11-12
+  title: 2차리그 2라운드 조별예선 GROUP A
+  season: 2
+  round: 2
+  stage: R32
+  number: 1
+  date: 2005-11-12
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 김진용	홍은표	임동혁	윤용준	서우석	서형원	강승환	정은석	트랙
 1	10	5	-1	2	7	3	0	포레스트 지그재그

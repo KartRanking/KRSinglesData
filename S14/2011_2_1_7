@@ -1,18 +1,19 @@
 ---
 matchspec: 
-  - title: 14차리그 1차예선 D조
-  - stage: R32
-  - number: 7
-  - date: 2011-10-06
+  title: 14차리그 1차예선 D조
+  season: 14
+  stage: R32
+  number: 7
+  date: 2011-10-06
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
-노진철	이중선	박준혁	최영훈	김광래	김현민	박도형	최영민	트랙
+노진철	이중선	박준혁	최영훈A	김광래	김현민	박도형	최영민	트랙
 10	-1	5	1	3	2	7	0	광산 위험한 제련소
 5	7	10	1	2	-1	3	0	[리버스] 해적 로비 절벽의 전투
 -1	3	5	10	0	7	2	1	차이나 골목길 대질주

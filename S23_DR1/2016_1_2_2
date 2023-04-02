@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2016-10-29
+  title: 듀얼 레이스 결승전 2세트
+  season: 23
+  stage: GF/2
+  number: 1
+  date: 2016-10-29
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 2
-  - stage: GF/3
+  players: 2
+  stage: GF/3
 ---
 유영혁	유창현	문호준	김승태	트랙
 10	4	5	7	비치 해변 드라이브

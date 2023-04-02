@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-2 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2020-09-05
+  title: 2020-2 32강 C조
+  season: 29
+  stage: R32
+  number: 3
+  date: 2020-09-05
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 유영혁	김지민	김현민	김주영	박도현	최민석	최태원	정승하	트랙
 7	3	-1	0	4	5	1	10	카멜롯 펜드래건 캐슬

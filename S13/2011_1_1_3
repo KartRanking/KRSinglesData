@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 13차리그 1차예선 B조
-  - stage: R32
-  - number: 3
-  - date: 2011-03-10
+  title: 13차리그 1차예선 B조
+  season: 13
+  stage: R32
+  number: 3
+  date: 2011-03-10
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 전대웅	이중선	김은일	양진호	안기준	김현태	원훈희	김현민	트랙
 10	3	7	0	2	5	-1	1	공동묘지 마왕의 초대

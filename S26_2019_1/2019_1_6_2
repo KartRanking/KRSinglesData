@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2019-1 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2019-03-23
+  title: 2019-1 결승전 2세트
+  season: 26
+  stage: GF/2
+  number: 1
+  date: 2019-03-23
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 문호준	박인수	트랙
 0	1	월드 두바이 다운타운

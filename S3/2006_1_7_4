@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 3라운드 조별예선 GROUP D
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2006-04-22
+  title: 3차리그 3라운드 조별예선 GROUP D
+  season: 3
+  round: 3
+  stage: R32
+  number: 4
+  date: 2006-04-22
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "7인 진행."
 ---
 조현준	나수원	이재성	김선일	정경우	이성광	김승철	트랙

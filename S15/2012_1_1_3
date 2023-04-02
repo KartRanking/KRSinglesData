@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 15차리그 1차예선 B조
-  - stage: R32
-  - number: 3
-  - date: 2012-02-16
+  title: 15차리그 1차예선 B조
+  season: 15
+  stage: R32
+  number: 3
+  date: 2012-02-16
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 전대웅	김동철	이중선	김승태	조성제	김은일	이성원	이민주	트랙
 10	0	3	7	-5	5	2	1	문힐시티 숨겨진 지하터널

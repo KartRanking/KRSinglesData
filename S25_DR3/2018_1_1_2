@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 32강 B조
-  - stage: R32
-  - number: 2
-  - date: 2018-01-27
+  title: 듀얼 레이스 3 32강 B조
+  season: 25
+  stage: R32
+  number: 2
+  date: 2018-01-27
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 임재원	황인호	이승교	문호준	박현수B	배재민	정승민	한상현	트랙
 0	3	5	10	1	4	-1	7	공동묘지 해골 손가락

@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2019-2 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2019-11-09
+  title: 2019-2 결승전 2세트
+  season: 27
+  stage: GF/2
+  number: 1
+  date: 2019-11-09
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 박도현	이재혁	트랙
 0	1	비치 해변 드라이브

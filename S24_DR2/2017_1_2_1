@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 16강 A조 2경기
-  - stage: R16L
-  - number: 1
-  - date: 2017-03-11
+  title: 듀얼 레이스 2 16강 A조 2경기
+  season: 24
+  stage: R16L
+  number: 1
+  date: 2017-03-11
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [1, 4]
-  - stage: [GF, R16F]
+  players: [1, 4]
+  stage: [GF, R16F]
 ---
 전대웅	신동이	유영혁	황인호	김정제	박인수	박지호	트랙
 10	5	4	3	1	7	0	네모 장난감 선물공장

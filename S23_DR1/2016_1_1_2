@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 32강 B조
-  - stage: R32
-  - number: 2
-  - date: 2016-10-01
+  title: 듀얼 레이스 32강 B조
+  season: 23
+  stage: R32
+  number: 2
+  date: 2016-10-01
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 2
-  - stage: GF
+  players: 2
+  stage: GF
 ---
 전대웅	이재인	강진우	최준호	문민기	김주원	이은택	조다훈	트랙
 3	0	4	5	7	1	10	-1	비치 해변 드라이브

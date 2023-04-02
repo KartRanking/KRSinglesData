@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2018-02-03
+  title: 듀얼 레이스 3 32강 C조
+  season: 25
+  stage: R32
+  number: 3
+  date: 2018-02-03
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 최영훈	송용준	전대웅	박인수	이준성	김주원	박민우	김승래	트랙
 1	3	7	10	5	0	4	-1	노르테유 익스프레스

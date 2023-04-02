@@ -1,13 +1,14 @@
 ---
 matchspec: 
-  - title: 1차리그 1라운드 FINAL GROUP 2
-  - round: 1
-  - stage: RF
-  - number: 2
-  - date: 2005-05-26
+  title: 1차리그 1라운드 FINAL GROUP 2
+  season: 1
+  round: 1
+  stage: RF
+  number: 2
+  date: 2005-05-26
 rule:
-  - rounds: 3
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 3
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 ---
 정은석	김대겸	김만식	박세훈	임세선	홍은표	강승환	김현욱	트랙
 8	4	5	2	6	7	3	1	포레스트 지그재그

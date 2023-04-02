@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 9차리그 2라운드 조별예선 GROUP D
-  - round: 2
-  - stage: R32
-  - number: 4
-  - date: 2008-07-19
+  title: 9차리그 2라운드 조별예선 GROUP D
+  season: 9
+  round: 2
+  stage: R32
+  number: 4
+  date: 2008-07-19
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 정선호	장진형	조성제	안한별	박준혁	이구응	이정규	이현모	트랙
 7	10	2	5	1	-5	3	-5	아이스 부서진 빙산

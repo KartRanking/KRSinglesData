@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2019-02-09
+  title: 2019-1 16강 1경기
+  season: 26
+  stage: R16
+  number: 1
+  date: 2019-02-09
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 comment: "A + C조."
 ---
 박인수	문호준	정승하	송용준	김응태	이준성	김승태	임재원	트랙

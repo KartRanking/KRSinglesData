@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 11차리그 1차예선 D조
-  - stage: R32
-  - number: 7
-  - date: 2010-05-20
+  title: 11차리그 1차예선 D조
+  season: 11
+  stage: R32
+  number: 7
+  date: 2010-05-20
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 박인재	김선일	강석인	전제민	박성훈	박도형	원상원	이기학	트랙
 3	0	10	2	5	1	7	-1	노르테유 익스프레스

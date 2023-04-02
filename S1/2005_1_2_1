@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 1차리그 1라운드 FINAL GROUP 1
-  - round: 1
-  - stage: RF
-  - number: 1
-  - date: 2005-05-26
+  title: 1차리그 1라운드 FINAL GROUP 1
+  season: 1
+  round: 1
+  stage: RF
+  number: 1
+  date: 2005-05-26
 rule:
-  - rounds: 3
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
-  - accumulate: 2
+  rounds: 3
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  accumulate: 2
 advances:
-  - players: 1
-  - stage: GF
+  players: 1
+  stage: GF
 ---
 노명호	이우열	서우석	조현준	신현우	신형	최대섭	최의영	트랙
 3	1	7	8	2	6	5	4	포레스트 지그재그

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-2 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2019-10-26
+  title: 2019-2 16강 패자전
+  season: 27
+  stage: R16L
+  number: 1
+  date: 2019-10-26
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 ---
 최영훈	최윤서	김승래	박현수	배성빈	양민규	이준성	신종민	트랙
 1	0	3	4	10	-1	5	7	신화 신들의 세계

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-2 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2020-11-08
+  title: 2020-2 결승전 1세트
+  season: 29
+  stage: GF/1
+  number: 1
+  date: 2020-11-08
 rule:
-  - points: 80
+  points: 80
 advances:
-  - players: 2
-  - stage: GF/2
+  players: 2
+  stage: GF/2
 tiebreaker: true
 comment: "경기장 건물 내 COVID-19 확진자 발생으로 인해 하루 순연."
 ---

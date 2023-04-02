@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2021-04-28
+  title: 2021-1 16강 패자전
+  season: 30
+  stage: R16L
+  number: 1
+  date: 2021-04-28
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 comment: "이정우의 폭언으로 인한 시즌 실격. 7인 진행."
 ---
 배성빈	김정제	노준현	신종민	박도현	김지민	유창현	트랙

@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 4차리그 3라운드 조별예선 GROUP B
-  - round: 3
-  - stage: R32
-  - number: 2
-  - date: 2006-10-12
+  title: 4차리그 3라운드 조별예선 GROUP B
+  season: 4
+  round: 3
+  stage: R32
+  number: 2
+  date: 2006-10-12
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 방준규	조경재	정은석	조현준	손창완	강정민	김대겸	서우석	트랙
 7	5	2	1	0	10	3	-1	해적 로비 절벽의 전투

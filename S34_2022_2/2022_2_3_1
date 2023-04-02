@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2022-08-27
+  title: 2022-2 16강 1경기
+  season: 34
+  stage: R16
+  number: 1
+  date: 2022-08-27
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 ---
 배성빈	이재혁	김우준	유영혁	최승현	유창현	이명재	정승하	트랙
 7	3	4	0	-1	1	5	10	잊혀진 모래의 기억

@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 12차리그 1차예선 B조
-  - stage: R32
-  - number: 3
-  - date: 2010-10-12
+  title: 12차리그 1차예선 B조
+  season: 12
+  stage: R32
+  number: 3
+  date: 2010-10-12
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 박인재	조경신	박준혁	노진철	이상흔	이성현	송민규	노원준	트랙
 -5	5	10	-5	7	-5	-5	3	광산 아슬아슬 궤도 전차

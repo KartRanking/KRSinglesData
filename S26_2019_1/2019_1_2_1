@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2019-02-02
+  title: 2019-1 32강 패자부활전
+  season: 26
+  stage: R32R
+  number: 1
+  date: 2019-02-02
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
 김승태	김기수	임재원	최영훈	한승철	김지민	이준용	김진석	트랙

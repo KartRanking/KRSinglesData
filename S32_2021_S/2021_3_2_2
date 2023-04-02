@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-S 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2021-12-08
+  title: 2021-S 16강 패자전
+  season: 32
+  stage: R16L
+  number: 1
+  date: 2021-12-08
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 comment: "노준현, 손목 부상으로 기권. 7인 진행."
 ---
 김승태	정승하	송용준	고병수	신종민	이명재	김정제	트랙

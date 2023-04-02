@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 4차리그 1라운드 조별예선 GROUP D
-  - round: 1
-  - stage: R32
-  - number: 4
-  - date: 2006-09-07
+  title: 4차리그 1라운드 조별예선 GROUP D
+  season: 4
+  round: 1
+  stage: R32
+  number: 4
+  date: 2006-09-07
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "홍은표 기권으로 7인 진행."
 ---
 김진용	정은석	김강인	문호준	김승철	이재성	김동주	트랙

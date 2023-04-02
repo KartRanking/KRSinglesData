@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 와일드카드 FINAL
-  - round: F
-  - stage: WC
-  - number: 1
-  - date: 2005-07-21
+  title: 1차리그 와일드카드 FINAL
+  season: 1
+  round: F
+  stage: WC
+  number: 1
+  date: 2005-07-21
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 5
-  - stage: GF
+  players: 5
+  stage: GF
 ---
 김윤호	최대섭	김대겸	김현욱	남재인	이우열	서우석	임세선	트랙
 2	3	5	6	7	1	4	8	포레스트 지그재그

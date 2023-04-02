@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 16강 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2018-03-17
+  title: 듀얼 레이스 3 16강 승자전
+  season: 25
+  stage: R16W
+  number: 1
+  date: 2018-03-17
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 ---
 문호준	유영혁	이재혁	유창현	김승태	전대웅	이준용	이준성	트랙
 0	4	10	-1	3	1	5	7	아이스 설산 다운힐

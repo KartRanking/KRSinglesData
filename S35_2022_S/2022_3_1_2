@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 16강 2경기
-  - stage: R16
-  - number: 2
-  - date: 2022-11-12
+  title: 2022-S 16강 2경기
+  season: 35
+  stage: R16
+  number: 2
+  date: 2022-11-12
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 ---
 NEAL	박인수	배성빈	박현수	김승태	김응태	강다훈	황인호	트랙
 10	7	3	5	1	0	-1	4	[리버스] 차이나 골목길 대질주

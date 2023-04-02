@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2021-2 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2021-10-02
+  title: 2021-2 16강 최종전
+  season: 31
+  stage: R16F
+  number: 1
+  date: 2021-10-02
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
-유영혁	배성빈	노준현	김승태	송용준	김지민	고병수	정승하	
+유영혁	배성빈	노준현	김승태	송용준	김지민	고병수	정승하	트랙
 7	4	3	-1	5	1	0	10	절망의 카타콤
 0	3	-1	1	7	10	5	4	올림포스 하늘의 신전
 0	3	-1	4	5	10	1	7	메카닉 잊혀진 도시의 중심부

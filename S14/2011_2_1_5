@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 14차리그 1차예선 C조
-  - stage: R32
-  - number: 5
-  - date: 2011-10-06
+  title: 14차리그 1차예선 C조
+  season: 14
+  stage: R32
+  number: 5
+  date: 2011-10-06
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 전대웅	문명주	신하늘	이요한	오찬호	김승태	소재현	김동환	트랙
 7	5	-5	10	-5	-5	-5	-5	광산 위험한 제련소

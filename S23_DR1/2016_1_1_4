@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2016-10-15
+  title: 듀얼 레이스 32강 D조
+  season: 23
+  stage: R32
+  number: 4
+  date: 2016-10-15
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 2
-  - stage: GF
+  players: 2
+  stage: GF
 ---
 김승태	최영훈	유창현	우성민	정승민	박인수	임재원	권순민	트랙
 0	3	7	1	-1	5	10	4	비치 해변 드라이브

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 패자부활전
-  - stage: R16F
-  - number: 1
-  - date: 2017-03-25
+  title: 듀얼 레이스 2 패자부활전
+  season: 24
+  stage: R16F
+  number: 1
+  date: 2017-03-25
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 유영혁	박인수	이재혁	유창현	황선민	김정제	전대웅	김주원	트랙
 4	7	5	10	3	-1	1	0	네모 장난감 선물공장

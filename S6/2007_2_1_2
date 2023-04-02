@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 6차리그 1라운드 조별예선 GROUP B
-  - round: 1
-  - stage: R32
-  - number: 2
-  - date: 2007-07-14
+  title: 6차리그 1라운드 조별예선 GROUP B
+  season: 6
+  round: 1
+  stage: R32
+  number: 2
+  date: 2007-07-14
 rule:
-  - points: 60
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 60
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 정선호	김선일	한정섭	주영식	안한별	이상우	박지윤	김동주	트랙
 7	5	0	1	-1	2	10	3	사막 빙글빙글 공사장

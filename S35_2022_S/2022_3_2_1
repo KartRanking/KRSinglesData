@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-S 16강 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2022-11-19
+  title: 2022-S 16강 승자전
+  season: 35
+  stage: R16W
+  number: 1
+  date: 2022-11-19
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 ---
 NEAL	이재혁	유창현	박인수	박현수	황인호	김우준	김다원	트랙
 5	3	4	10	-1	0	1	7	[리버스] 차이나 골목길 대질주

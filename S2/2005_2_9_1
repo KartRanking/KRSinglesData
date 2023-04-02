@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 3라운드 FINAL
-  - round: 3
-  - stage: RF
-  - number: 2
-  - date: 2005-12-24
+  title: 2차리그 3라운드 FINAL
+  season: 2
+  round: 3
+  stage: RF
+  number: 1
+  date: 2005-12-24
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 1
-  - stage: GF
+  players: 1
+  stage: GF
 ---
 이성광	조남곤	윤용준	서형원	한창민	전성일	조경재	최대섭	트랙
 0	3	2	1	7	5	10	-1	포레스트 지그재그

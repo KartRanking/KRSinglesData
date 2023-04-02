@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 16강 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2021-04-24
+  title: 2021-1 16강 승자전
+  season: 30
+  stage: R16W
+  number: 1
+  date: 2021-04-24
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 ---
 박인수	박현수	이재혁	송용준	김승태	정승하	최영훈	김기수	트랙
 10	7	0	3	-1	1	4	5	올림포스 하늘의 신전

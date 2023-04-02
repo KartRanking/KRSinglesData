@@ -1,14 +1,14 @@
 ---
 matchspec: 
-  - title: 7차리그 GRAND FINAL
-  - round: F
-  - stage: GF
-  - number: 1
-  - date: 2008-02-17
+  title: 7차리그 GRAND FINAL
+  season: 7
+  round: F
+  stage: GF
+  number: 1
+  date: 2008-02-17
 rule:
-  - points: 70
-  - players_to_target: 4
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 80
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 tiebreaker: true
 comment: "정선호 대 이재성의 4위 결정전은 방송되지 않아 트랙을 알 수 없음."
 ---

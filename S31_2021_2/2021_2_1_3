@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2021-2 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2021-08-14
+  title: 2021-2 32강 C조
+  season: 31
+  stage: R32
+  number: 3
+  date: 2021-08-14
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
-박현수	노준현	유민선	한승철	최은성	임재원	김민준	이재혁	
+박현수	노준현	유민선	한승철	최은성	임재원	김민준	이재혁	트랙
 10	1	5	7	0	3	-1	4	절망의 카타콤
 1	10	-1	3	0	7	4	5	포레스트 아찔한 다운힐
 4	7	3	0	1	5	-1	10	올림포스 하늘의 신전

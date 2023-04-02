@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 2라운드 조별예선 GROUP D
-  - round: 2
-  - stage: R32
-  - number: 4
-  - date: 2005-06-09
+  title: 1차리그 2라운드 조별예선 GROUP D
+  season: 1
+  round: 2
+  stage: R32
+  number: 4
+  date: 2005-06-09
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 서우석	이우열	이연규	홍은표	김성훈	최강일	최대섭	트랙
 8	5	2	6	3	4	7	포레스트 지그재그

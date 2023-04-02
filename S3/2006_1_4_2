@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 2라운드 조별예선 GROUP A
-  - round: 1
-  - stage: R32
-  - number: 1
-  - date: 2006-03-18
+  title: 3차리그 2라운드 조별예선 GROUP B
+  season: 3
+  round: 2
+  stage: R32
+  number: 2
+  date: 2006-03-18
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 김대겸	조경재	이재성	정경우	이성광	오용환	박재홍	박지윤	트랙
 2	0	3	10	1	-1	5	7	빌리지 고가의 질주

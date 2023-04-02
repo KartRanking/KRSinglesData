@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 4차리그 1라운드 조별예선 GROUP C
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2006-09-07
+  title: 4차리그 1라운드 조별예선 GROUP C
+  season: 4
+  round: 1
+  stage: R32
+  number: 3
+  date: 2006-09-07
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 조현준	임영노	손창완	윤용준	김진욱	서우석	강정민	김현준	트랙
 10	3	0	-1	5	1	7	2	해적 로비 절벽의 전투

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2019-01-19
+  title: 2019-1 32강 C조
+  season: 26
+  stage: R32
+  number: 3
+  date: 2019-01-19
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 정승하	문호준	윤정현	김기수	이태경	김지민	송용준	박지호	트랙
 4	0	1	10	5	7	3	-1	신화 신들의 세계

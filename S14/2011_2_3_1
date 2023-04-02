@@ -1,15 +1,16 @@
 ---
 matchspec: 
-  - title: 14차리그 패자부활전
-  - stage: R16F
-  - number: 1
-  - date: 2011-11-10
+  title: 14차리그 패자부활전
+  season: 14
+  stage: R16F
+  number: 1
+  date: 2011-11-10
 rule:
-  - points: 70
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 노진철	박인재	문명주	박현호	이요한	신하늘	박종근	이중대	트랙
 0	10	1	-5	7	2	3	5	광산 위험한 제련소

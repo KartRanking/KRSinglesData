@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-S 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2021-12-18
+  title: 2021-S 결승전 1세트
+  season: 32
+  stage: GF/1
+  number: 1
+  date: 2021-12-18
 rule:
-  - points: 80
+  points: 80
 advances:
-  - players: 2
-  - stage: GF/2
+  players: 2
+  stage: GF/2
 ---
 이재혁	박인수	배성빈	김기수	박현수	송용준	김지민	유창현	트랙
 1	5	3	10	7	0	4	-1	코리아 다이나믹 서울

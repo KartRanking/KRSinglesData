@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 4차리그 3라운드 QUARTER FINAL GROUP 1
-  - round: 3
-  - stage: R16
-  - number: 1
-  - date: 2006-10-12
+  title: 4차리그 3라운드 QUARTER FINAL GROUP 1
+  season: 4
+  round: 3
+  stage: R16
+  number: 1
+  date: 2006-10-12
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 유임덕	방준규	김진용	조경재	김영남	김강인	조현준	강정민	트랙
 10	2	3	5	0	7	-1	1	해적 로비 절벽의 전투

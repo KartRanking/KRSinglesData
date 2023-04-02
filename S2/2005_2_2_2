@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 1라운드 QUARTER FINAL GROUP 2
-  - round: 1
-  - stage: R16
-  - number: 2
-  - date: 2005-11-05
+  title: 2차리그 1라운드 QUARTER FINAL GROUP 2
+  season: 2
+  round: 1
+  stage: R16
+  number: 2
+  date: 2005-11-05
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 박재홍	최의영	권현진	전성일	조남곤	김윤호	홍은표	임동혁	트랙
 5	7	2	1	10	3	-1	0	포레스트 지그재그

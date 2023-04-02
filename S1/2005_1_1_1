@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 1라운드 조별예선 GROUP A
-  - round: 1
-  - stage: R32
-  - number: 1
-  - date: 2005-05-12
+  title: 1차리그 1라운드 조별예선 GROUP A
+  season: 1
+  round: 1
+  stage: R32
+  number: 1
+  date: 2005-05-12
 rule:
-  - rounds: 3
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 3
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 조현준	박태완	이연규	신형	이홍석	신현우	최강일	최대섭	트랙
 8	4	1	6	2	7	3	5	포레스트 지그재그

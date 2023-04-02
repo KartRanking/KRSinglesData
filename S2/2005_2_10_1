@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 WILD CARD GROUP 1
-  - round: F
-  - stage: WCQ
-  - number: 1
-  - date: 2005-12-31
+  title: 2차리그 WILD CARD GROUP 1
+  season: 2
+  round: F
+  stage: WCQ
+  number: 1
+  date: 2005-12-31
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: WC
+  players: 4
+  stage: WC
 ---
 한창민	홍은표	최대섭	조윤권	서형원	임동혁	최성근	임세선	트랙
 10	2	0	1	3	7	-1	5	포레스트 지그재그

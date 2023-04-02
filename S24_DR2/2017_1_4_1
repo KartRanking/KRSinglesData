@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2017-04-08
+  title: 듀얼 레이스 2 결승전 1세트
+  season: 24
+  stage: GF/1
+  number: 1
+  date: 2017-04-08
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 4
-  - stage: GF/2
+  players: 4
+  stage: GF/2
 ---
 김승태	문호준	신동이	이재인	김정제	유영혁	전대웅	유창현	트랙
 10	1	4	3	0	5	7	-1	네모 장난감 선물공장

@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 7차리그 1라운드 조별예선 GROUP D
-  - round: 1
-  - stage: R32
-  - number: 4
-  - date: 2007-12-22
+  title: 7차리그 1라운드 조별예선 GROUP D
+  season: 7
+  round: 1
+  stage: R32
+  number: 4
+  date: 2007-12-22
 rule:
-  - points: 60
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 60
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 강석인	장진형	김선일	김동주	최현후	문영석	이상우	유영혁	트랙
 10	-5	3	5	7	2	-5	1	빌리지 손가락 2

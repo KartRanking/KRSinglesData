@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-2 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2020-09-23
+  title: 2020-2 16강 1경기
+  season: 29
+  stage: R16
+  number: 1
+  date: 2020-09-23
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 comment: "A + C조."
 ---
 유영혁	송용준	정승하	최윤서	최민석	김승래	김기수	한승철	트랙

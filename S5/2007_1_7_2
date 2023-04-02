@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 5차리그 3라운드 조별예선 GROUP B
-  - round: 3
-  - stage: R32
-  - number: 2
-  - date: 2007-04-14
+  title: 5차리그 3라운드 조별예선 GROUP B
+  season: 5
+  round: 3
+  stage: R32
+  number: 2
+  date: 2007-04-14
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 김진용	방준규	유임덕	이충효	한정섭	손창완	장승우	서형원	트랙
 -1	7	10	2	1	5	3	0	노르테유 익스프레스

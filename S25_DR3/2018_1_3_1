@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2018-03-03
+  title: 듀얼 레이스 3 16강 1경기
+  season: 25
+  stage: R16
+  number: 1
+  date: 2018-03-03
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 comment: "A + C조."
 ---
 유영혁	박인수	전대웅	이재혁	김응태	김승래	이준성	김정제	트랙

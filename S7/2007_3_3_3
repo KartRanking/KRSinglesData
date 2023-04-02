@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 7차리그 2라운드 조별예선 GROUP C
-  - round: 2
-  - stage: R32
-  - number: 3
-  - date: 2008-01-19
+  title: 7차리그 2라운드 조별예선 GROUP C
+  season: 7
+  round: 2
+  stage: R32
+  number: 3
+  date: 2008-01-19
 rule:
-  - points: 60
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 60
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 장진형	김강인	김진용	장승우	박성훈	방기철	황석목	안한별	트랙
 10	5	3	7	2	1	0	-1	포레스트 지그재그

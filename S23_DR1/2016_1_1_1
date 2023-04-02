@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 32강 A조
-  - stage: R32
-  - number: 1
-  - date: 2016-10-01
+  title: 듀얼 레이스 32강 A조
+  season: 23
+  stage: R32
+  number: 1
+  date: 2016-10-01
 rule:
-  - points: 60
+  points: 60
 advances:
-  - players: 2
-  - stage: GF
+  players: 2
+  stage: GF
 tiebreaker: true
 ---
 문호준	신동이	황선민	조성제	박현수B	이준용	이다빈	김선일	트랙

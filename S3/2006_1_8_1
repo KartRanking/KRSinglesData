@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 3라운드 QUARTER FINAL GROUP 1
-  - round: 1
-  - stage: R16
-  - number: 1
-  - date: 2006-04-15
+  title: 3차리그 3라운드 QUARTER FINAL GROUP 1
+  season: 3
+  round: 3
+  stage: R16
+  number: 1
+  date: 2006-04-15
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 tiebreaker: true
 ---
 김진용	한창민	전성일	조남곤	조경재	권두안	박재홍	최의영	트랙

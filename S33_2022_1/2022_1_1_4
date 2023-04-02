@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2022-03-19
+  title: 2022-1 32강 D조
+  season: 33
+  stage: R32
+  number: 4
+  date: 2022-03-19
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 comment: "황혁, COVID-19 확진으로 기권. 황혁 선수는 추후 수퍼컵 예선, KDL 프리시즌 1 등의 참가 자격을 유지함."
 ---
 유영혁	박장훈	홍성민	안정환	전대웅	조상인	배성빈	트랙

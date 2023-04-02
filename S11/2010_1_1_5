@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 11차리그 1차예선 C조
-  - stage: R32
-  - number: 5
-  - date: 2010-05-20
+  title: 11차리그 1차예선 C조
+  season: 11
+  stage: R32
+  number: 5
+  date: 2010-05-20
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 유영혁	안한별	이중대	박현호	김현민	이지우	이상흔	김은일	트랙
 10	7	-1	1	2	0	3	5	아이스 부서진 빙산

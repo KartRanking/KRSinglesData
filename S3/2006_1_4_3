@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 2라운드 조별예선 GROUP C
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2006-03-25
+  title: 3차리그 2라운드 조별예선 GROUP C
+  season: 3
+  round: 2
+  stage: R32
+  number: 3
+  date: 2006-03-25
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 김진용	임영노	한창민	서형원	권명성	김승철	김웅진	손창완	트랙
 -1	5	10	7	0	2	3	1	빌리지 고가의 질주

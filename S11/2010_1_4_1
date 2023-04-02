@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 11차리그 GRAND FINAL
-  - stage: GF
-  - number: 1
-  - date: 2010-06-27
+  title: 11차리그 GRAND FINAL
+  season: 11
+  stage: GF
+  number: 1
+  date: 2010-06-27
 rule:
-  - points: 80
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 80
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 tiebreaker: true
 comment: "유영혁 대 김선일의 4위 결정전은 미방영. 트랙 알 수 없음."
 ---

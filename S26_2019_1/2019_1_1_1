@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 32강 A조
-  - stage: R32
-  - number: 1
-  - date: 2019-01-05
+  title: 2019-1 32강 A조
+  season: 26
+  stage: R32
+  number: 1
+  date: 2019-01-05
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 박인수	이준성	이준용	심우혁	최성수	최준호	김응태	김진석	트랙
 10	7	5	3	-1	0	1	4	신화 신들의 세계

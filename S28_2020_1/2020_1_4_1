@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-1 16강 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2020-05-13
+  title: 2020-1 16강 승자전
+  season: 28
+  stage: R16W
+  number: 1
+  date: 2020-05-13
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 comment: "COVID-19로 인한 연기 후 5월 9일로 계획되었으나 서버 이슈로 인해 추가 연기."
 ---
 문호준	박인수	유영혁	배성빈	전대웅	김응태	유창현	박도현	트랙

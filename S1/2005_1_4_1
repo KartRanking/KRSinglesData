@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 1차리그 2라운드 FINAL GROUP 1
-  - round: 2
-  - stage: RF
-  - number: 1
-  - date: 2005-06-16
+  title: 1차리그 2라운드 FINAL GROUP 1
+  season: 1
+  round: 2
+  stage: RF
+  number: 1
+  date: 2005-06-16
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
-  - accumulate: 3
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  accumulate: 3
 advances:
-  - players: 1
-  - stage: GF
+  players: 1
+  stage: GF
 ---
 조현준	김대겸	남재인	권태윤	김현욱	김윤호	정은석	임동혁	트랙
 6	5	3	8	1	4	7	2	포레스트 지그재그

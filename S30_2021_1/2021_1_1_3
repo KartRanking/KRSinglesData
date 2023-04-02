@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2021-03-20
+  title: 2021-1 32강 C조
+  season: 30
+  stage: R32
+  number: 3
+  date: 2021-03-20
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 comment: "한승철의 기권으로 7인 진행."
 ---
 박인수	신민식	최영훈	이정우	김지민	최은성	전진우	트랙

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 16강 B조 2경기
-  - stage: R16L
-  - number: 2
-  - date: 2017-03-18
+  title: 듀얼 레이스 2 16강 B조 2경기
+  season: 24
+  stage: R16L
+  number: 2
+  date: 2017-03-18
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [1, 4]
-  - stage: [GF, R16F]
+  players: [1, 4]
+  stage: [GF, R16F]
 ---
 이재혁	김주원	최영훈	황선민	권순민	이재인	유창현	트랙
 5	1	0	3	7	10	4	네모 장난감 선물공장

@@ -1,18 +1,19 @@
 ---
 matchspec: 
-  - title: 12차리그 1차예선 C조
-  - stage: R32
-  - number: 5
-  - date: 2010-10-19
+  title: 12차리그 1차예선 C조
+  season: 12
+  stage: R32
+  number: 5
+  date: 2010-10-19
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
-전대웅	박도형	조성제	안한별	원상원	최영훈	김현태	원훈희	트랙
+전대웅	박도형	조성제	안한별	원상원	최영훈A	김현태	원훈희	트랙
 10	5	1	7	0	-1	2	3	빌리지 운명의 다리
 10	3	-5	7	5	1	-5	2	광산 아슬아슬 궤도 전차
 10	2	1	3	5	7	0	-5	노르테유 익스프레스

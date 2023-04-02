@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 7차리그 WILD CARD 진출전
-  - round: F
-  - stage: WCQ
-  - number: 1
-  - date: 2008-02-02
+  title: 7차리그 WILD CARD 진출전
+  season: 7
+  round: F
+  stage: WCQ
+  number: 1
+  date: 2008-02-02
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: WC
+  players: 2
+  stage: WC
 comment: "와일드카드 포인트 동점자 간 와일드카드전 진출자 두 명을 가리기 위한 5트랙 플레이오프."
 ---
 강정민	이재성	장승우	트랙

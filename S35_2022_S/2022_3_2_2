@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-S 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2022-11-26
+  title: 2022-S 16강 패자전
+  season: 35
+  stage: R16L
+  number: 1
+  date: 2022-11-26
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 ---
 유영혁	노준현	송용준	배성빈	정승하	김승태	김응태	강다훈	트랙
 1	10	3	0	-1	4	7	5	[리버스] 차이나 골목길 대질주

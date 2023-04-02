@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2018-04-07
+  title: 듀얼 레이스 3 결승전 1세트
+  season: 25
+  stage: GF/1
+  number: 1
+  date: 2018-04-07
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF/2
+  players: 4
+  stage: GF/2
 ---
 문호준	김승태	유영혁	이준성	박인수	유창현	정승하	이재혁	트랙
 10	-1	1	0	5	4	7	3	빌리지 붐힐터널

@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 3라운드 조별예선 GROUP A
-  - round: 3
-  - stage: R32
-  - number: 1
-  - date: 2005-06-23
+  title: 1차리그 3라운드 조별예선 GROUP A
+  season: 1
+  round: 3
+  stage: R32
+  number: 1
+  date: 2005-06-23
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 정은석	최대섭	박세훈	김윤호	최강일	이동훈	강천희	트랙
 7	5	2	8	3	4	6	포레스트 지그재그

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-2 16강 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2019-10-19
+  title: 2019-2 16강 승자전
+  season: 27
+  stage: R16W
+  number: 1
+  date: 2019-10-19
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 ---
 박인수	전대웅	이재혁	박도현	황인호	문호준	김기수	유영혁	트랙
 7	-1	10	0	3	5	1	4	신화 신들의 세계

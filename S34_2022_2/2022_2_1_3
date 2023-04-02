@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2022-08-06
+  title: 2022-2 32강 C조
+  season: 34
+  stage: R32
+  number: 3
+  date: 2022-08-06
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 유창현	강다훈	전대웅	최영훈	황인호	이명재	최승현	이재혁	트랙
 -1	1	4	5	10	3	7	0	잊혀진 모래의 기억

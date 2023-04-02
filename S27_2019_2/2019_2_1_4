@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-2 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2019-09-14
+  title: 2019-2 32강 D조
+  season: 27
+  stage: R32
+  number: 4
+  date: 2019-09-14
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 tiebreaker: true
 ---
 김승래	전강인	이강호	최윤서	이준용	김기수	최영훈	한승철	트랙

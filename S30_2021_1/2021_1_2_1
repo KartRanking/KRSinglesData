@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2021-04-03
+  title: 2021-1 32강 패자부활전
+  season: 30
+  stage: R32R
+  number: 1
+  date: 2021-04-03
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
 임재원	유민선	김기수	배성빈	정승하	김지민	신민식	유영혁	트랙

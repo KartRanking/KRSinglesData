@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 9차리그 1라운드 조별예선 GROUP A
-  - round: 1
-  - stage: R32
-  - number: 1
-  - date: 2008-06-21
+  title: 9차리그 1라운드 조별예선 GROUP A
+  season: 9
+  round: 1
+  stage: R32
+  number: 1
+  date: 2008-06-21
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 김진희	이세웅	이상우	김강인	박지윤	안한별	이정규	이현모	트랙
 2	0	5	7	10	3	1	-1	해적 로비 절벽의 전투

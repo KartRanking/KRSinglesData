@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 WILD CARD FINAL
-  - round: F
-  - stage: WC
-  - number: 1
-  - date: 2006-01-07
+  title: 2차리그 WILD CARD FINAL
+  season: 2
+  round: F
+  stage: WC
+  number: 1
+  date: 2006-01-07
 rule:
-  - rounds: 10
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 10
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 5
-  - stage: GF
+  players: 5
+  stage: GF
 ---
 최대섭	서형원	전성일	조남곤	이성광	김대겸	한창민	홍은표	트랙
 -1	1	5	3	2	10	7	0	포레스트 지그재그

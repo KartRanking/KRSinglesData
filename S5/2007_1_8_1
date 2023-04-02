@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 5차리그 3라운드 QUARTER FINAL GROUP 1
-  - round: 3
-  - stage: R16
-  - number: 1
-  - date: 2007-04-21
+  title: 5차리그 3라운드 QUARTER FINAL GROUP 1
+  season: 5
+  round: 3
+  stage: R16
+  number: 1
+  date: 2007-04-21
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 ---
 유임덕	강석인	이충효	문호준	김진희	김진용	방준규	최봉석	트랙
 5	3	-1	7	10	2	0	1	사막 빙글빙글 공사장

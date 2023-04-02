@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2021-05-08
+  title: 2021-1 결승전 1세트
+  season: 30
+  stage: GF/1
+  number: 1
+  date: 2021-05-08
 rule:
-  - points: 80
+  points: 80
 advances:
-  - players: 2
-  - stage: GF/2
+  players: 2
+  stage: GF/2
 tiebreaker: true
 comment: "개인전 부활 후 첫번째 3자 동률 재경기."
 ---

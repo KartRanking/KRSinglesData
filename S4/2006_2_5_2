@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 4차리그 2라운드 QUARTER FINAL GROUP 2
-  - round: 2
-  - stage: R16
-  - number: 2
-  - date: 2006-09-28
+  title: 4차리그 2라운드 QUARTER FINAL GROUP 2
+  season: 4
+  round: 2
+  stage: R16
+  number: 2
+  date: 2006-09-28
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 유임덕	김진용	김경한	방준규	최의영	김승철	정은석	최봉석	트랙
 -1	5	10	3	0	1	7	2	해적 로비 절벽의 전투

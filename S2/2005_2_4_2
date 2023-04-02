@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 2라운드 조별예선 GROUP B
-  - round: 2
-  - stage: R32
-  - number: 2
-  - date: 2005-11-12
+  title: 2차리그 2라운드 조별예선 GROUP B
+  season: 2
+  round: 2
+  stage: R32
+  number: 2
+  date: 2005-11-12
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "조남곤 지각으로 타이브레이커 패배 처리."
 ---
 조현준	조남곤	최의영	이성광	조경재	임세선	정경우	김솔	트랙

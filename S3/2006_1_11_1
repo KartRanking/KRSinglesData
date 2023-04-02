@@ -1,13 +1,14 @@
 ---
 matchspec: 
-  - title: 3차리그 GRAND FINAL
-  - round: F
-  - stage: GF
-  - number: 1
-  - date: 2006-05-13
+  title: 3차리그 GRAND FINAL
+  season: 3
+  round: F
+  stage: GF
+  number: 1
+  date: 2006-05-13
 rule:
-  - points: 80
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 80
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 ---
 조현준	한창민	김진용	조경재	임영노	홍은표	박재홍	김대겸	트랙
 -1	7	2	10	5	1	0	3	빌리지 고가의 질주

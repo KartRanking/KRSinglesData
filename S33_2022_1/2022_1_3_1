@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2022-04-02
+  title: 2022-1 16강 1경기
+  season: 33
+  stage: R16
+  number: 1
+  date: 2022-04-02
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 ---
 박인수	박현수	김승태	이재혁	송용준	정승하	유창현	유영혁	트랙
 3	10	-1	7	1	5	0	4	마비노기 바올 던전

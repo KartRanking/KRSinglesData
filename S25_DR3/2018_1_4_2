@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2018-03-24
+  title: 듀얼 레이스 3 16강 패자전
+  season: 25
+  stage: R16L
+  number: 1
+  date: 2018-03-24
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 ---
 황인호	박인수	김정제	김승래	정승하	김응태	박현수	이승교	트랙
 0	10	3	7	1	-1	5	4	대저택 은밀한 지하실

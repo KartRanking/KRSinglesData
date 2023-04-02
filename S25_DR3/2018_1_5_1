@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2018-03-31
+  title: 듀얼 레이스 3 16강 최종전
+  season: 25
+  stage: R16F
+  number: 1
+  date: 2018-03-31
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 이재혁	전대웅	이준용	유창현	박인수	김정제	김승래	정승하	트랙
 3	5	-1	7	0	4	1	10	빌리지 붐힐터널

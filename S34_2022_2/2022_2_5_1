@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2022-09-24
+  title: 2022-2 16강 최종전
+  season: 34
+  stage: R16F
+  number: 1
+  date: 2022-09-24
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 이명재	박인수	NEAL	김다원	김응태	최승현	김승태	김우준	트랙
 5	0	10	4	1	7	3	-1	메이플 레헬른 악몽의 시계탑

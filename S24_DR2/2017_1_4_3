@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 2 결승전 3세트
-  - stage: GF/3
-  - number: 1
-  - date: 2017-04-08
+  title: 듀얼 레이스 2 결승전 3세트
+  season: 24
+  stage: GF/3
+  number: 1
+  date: 2017-04-08
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 김승태	유영혁	트랙
 0	1	월드 뉴욕 대질주

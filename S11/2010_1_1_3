@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 11차리그 1차예선 B조
-  - stage: R32
-  - number: 3
-  - date: 2010-05-13
+  title: 11차리그 1차예선 B조
+  season: 11
+  stage: R32
+  number: 3
+  date: 2010-05-13
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
-  - accumulate: 2
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  accumulate: 2
 advances:
-  - players: [2, 2]
-  - stage: [R16W, R16L]
+  players: [2, 2]
+  stage: [R16W, R16L]
 ---
 강진우	이구응	김택환	김준	조경신	이중선	김동주	김한비	트랙
 7	2	10	-5	3	5	1	-5	광산 꼬불꼬불 다운힐

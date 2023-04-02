@@ -1,15 +1,16 @@
 ---
 matchspec: 
-  - title: 15차리그 패자부활전
-  - stage: R16F
-  - number: 1
-  - date: 2012-03-29
+  title: 15차리그 패자부활전
+  season: 15
+  stage: R16F
+  number: 1
+  date: 2012-03-29
 rule:
-  - points: 70
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 이중선	박인재	장진형	박정렬	김승태	박종근	박현호	이중대	트랙
 10	1	2	0	5	-1	7	3	[리버스] 해적 로비 절벽의 전투

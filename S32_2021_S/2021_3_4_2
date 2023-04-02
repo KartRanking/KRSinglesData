@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2021-S 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2021-12-18
+  title: 2021-S 결승전 2세트
+  season: 32
+  stage: GF/2
+  number: 1
+  date: 2021-12-18
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 박인수	이재혁	트랙
 0	1	노르테유 익스프레스

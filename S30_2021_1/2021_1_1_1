@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 32강 A조
-  - stage: R32
-  - number: 1
-  - date: 2021-03-06
+  title: 2021-1 32강 A조
+  season: 30
+  stage: R32
+  number: 1
+  date: 2021-03-06
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 이재혁	신종민	김정제	정유민	유영혁	홍승민	유민선	이명재	트랙
 10	0	7	1	-1	4	5	3	올림포스 하늘의 신전

@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 2021-2 16강 1경기
-  - stage: R16
-  - number: 1
-  - date: 2021-09-04
+  title: 2021-2 16강 1경기
+  season: 31
+  stage: R16
+  number: 1
+  date: 2021-09-04
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 comment: "A + C조."
 ---
-이재혁	유창현	최영훈	노준현	박현수	정승하	안정환	고병수	
+이재혁	유창현	최영훈	노준현	박현수	정승하	안정환	고병수	트랙
 7	3	-1	1	4	0	5	10	절망의 카타콤
 7	-1	10	3	5	0	1	4	포레스트 아찔한 다운힐
 0	7	10	5	1	4	3	-1	WKC 투어링 랠리

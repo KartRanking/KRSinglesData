@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 3라운드 QUARTER FINAL GROUP 2
-  - round: 1
-  - stage: R16
-  - number: 1
-  - date: 2006-04-22
+  title: 3차리그 3라운드 QUARTER FINAL GROUP 2
+  season: 3
+  round: 3
+  stage: R16
+  number: 2
+  date: 2006-04-22
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 조현준	임영노	나수원	오용환	홍은표	김대겸	김승철	김선일	트랙
 2	7	0	1	5	3	-1	10	빌리지 고가의 질주

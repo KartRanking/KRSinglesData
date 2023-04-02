@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 9차리그 1라운드 조별예선 GROUP C
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2008-06-28
+  title: 9차리그 1라운드 조별예선 GROUP C
+  season: 9
+  round: 1
+  stage: R32
+  number: 3
+  date: 2008-06-28
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 문호준	정선호	전인권	박인재	오명기	조경신	정영석	박현호	트랙
 10	3	-1	5	7	0	1	2	빌리지 손가락 2

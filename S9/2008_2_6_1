@@ -1,13 +1,14 @@
 ---
 matchspec: 
-  - title: 9차리그 GRAND FINAL
-  - round: F
-  - stage: GF
-  - number: 1
-  - date: 2008-08-10
+  title: 9차리그 GRAND FINAL
+  season: 9
+  round: F
+  stage: GF
+  number: 1
+  date: 2008-08-10
 rule:
-  - points: 80
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 80
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 ---
 강진우	문호준	김진희	장진형	강석인	정선호	김택환	박인재	트랙
 1	10	3	0	5	7	-1	2	해적 로비 절벽의 전투

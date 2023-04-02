@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 듀얼 레이스 3 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2018-02-10
+  title: 듀얼 레이스 3 32강 D조
+  season: 25
+  stage: R32
+  number: 4
+  date: 2018-02-10
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 박현수	김승태	정승하	유창현	이준용	김진석	권순민	노준엽	트랙
 3	10	4	5	7	0	1	-1	아이스 설산 다운힐

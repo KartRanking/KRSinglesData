@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 8차리그 1라운드 조별예선 GROUP B
-  - round: 1
-  - stage: R32
-  - number: 2
-  - date: 2008-03-22
+  title: 8차리그 1라운드 조별예선 GROUP B
+  season: 8
+  round: 1
+  stage: R32
+  number: 2
+  date: 2008-03-22
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 유임덕	김진희	김강인	박준혁	박인재	최현후	김준	오명기	트랙
 5	0	3	-1	7	2	10	1	광산 꼬불꼬불 다운힐

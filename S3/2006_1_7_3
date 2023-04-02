@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 3라운드 조별예선 GROUP C
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2006-04-22
+  title: 3차리그 3라운드 조별예선 GROUP C
+  season: 3
+  round: 3
+  stage: R32
+  number: 3
+  date: 2006-04-22
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "6인 진행."
 ---
 김대겸	임영노	오용환	김형철	홍은표	김영진	트랙

@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 1차리그 3라운드 FINAL TIEBREAKER
-  - round: 3
-  - stage: RF
-  - number: 3
-  - date: 2005-07-07
+  title: 1차리그 3라운드 FINAL TIEBREAKER
+  season: 1
+  round: 3
+  stage: RF
+  number: 3
+  date: 2005-07-07
 rule:
-  - rounds: 0
+  rounds: 0
 tiebreaker: true
 comment: "3R 6위 결정전. 상위 3명이 3R 공동 6위로서 와일드카드 포인트 3점을 받고, 4위는 와일드카드 포인트를 받지 못함."
 ---

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2022-03-26
+  title: 2022-1 32강 패자부활전
+  season: 33
+  stage: R32R
+  number: 1
+  date: 2022-03-26
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
 조상인	유창현	유영혁	임재원	최영훈	김우준	강다훈	나인창	트랙

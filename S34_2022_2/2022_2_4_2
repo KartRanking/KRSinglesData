@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2022-09-24
+  title: 2022-2 16강 패자전
+  season: 34
+  stage: R16L
+  number: 1
+  date: 2022-09-24
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 tiebreaker: true
 comment: "3자 타이브레이커."
 ---

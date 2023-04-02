@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-1 16강 패자전
-  - stage: R16L
-  - number: 1
-  - date: 2019-03-02
+  title: 2019-1 16강 패자전
+  season: 26
+  stage: R16L
+  number: 1
+  date: 2019-03-02
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16F
+  players: 4
+  stage: R16F
 comment: "김승태, 퍼펙트게임"
 ---
 한승철	임재원	김승태	최영훈	배성빈	유영혁	이준성	송용준	트랙

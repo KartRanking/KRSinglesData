@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-2 32강 패자부활전
-  - stage: R32R
-  - number: 1
-  - date: 2022-08-20
+  title: 2022-2 32강 패자부활전
+  season: 34
+  stage: R32R
+  number: 1
+  date: 2022-08-20
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "순위대로 16강 조 선택."
 ---
 정승하	이정우	황인호	김정현	이명재	김승태	김다원	임재원	트랙

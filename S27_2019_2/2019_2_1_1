@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-2 32강 A조
-  - stage: R32
-  - number: 1
-  - date: 2019-08-17
+  title: 2019-2 32강 A조
+  season: 27
+  stage: R32
+  number: 1
+  date: 2019-08-17
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 문호준	김진석	박민호	최민석	이재혁	문진형	이건욱	양민규	트랙
 10	3	-1	7	5	0	4	1	신화 신들의 세계

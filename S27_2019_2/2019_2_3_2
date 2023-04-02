@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2019-2 16강 2경기
-  - stage: R16
-  - number: 2
-  - date: 2019-10-12
+  title: 2019-2 16강 2경기
+  season: 27
+  stage: R16
+  number: 2
+  date: 2019-10-12
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [4, 4]
-  - stage: [R16W, R16L]
+  players: [4, 4]
+  stage: [R16W, R16L]
 comment: "B + D조."
 ---
 박도현	김기수	박인수	유영혁	최영훈	최윤서	신종민	배성빈	트랙

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-1 32강 B조
-  - stage: R32
-  - number: 2
-  - date: 2020-01-11
+  title: 2020-1 32강 B조
+  season: 28
+  stage: R32
+  number: 2
+  date: 2020-01-11
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 ---
 박도현	전대웅	윤정현	최민석	양민규	황인호	정유민	임재원	트랙
 5	4	7	1	10	0	3	-1	어비스 숨겨진 바닷길

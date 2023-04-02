@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 1차리그 3라운드 FINAL GROUP 1
-  - round: 3
-  - stage: RF
-  - number: 1
-  - date: 2005-07-07
+  title: 1차리그 3라운드 FINAL GROUP 1
+  season: 1
+  round: 3
+  stage: RF
+  number: 1
+  date: 2005-07-07
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
-  - accumulate: 3
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  accumulate: 3
 advances:
-  - players: 1
-  - stage: GF
+  players: 1
+  stage: GF
 ---
 조현준	서우석	강승환	임동혁	최대섭	정은석	이동훈	김윤호	트랙
 6	4	7	8	1	2	3	5	포레스트 지그재그

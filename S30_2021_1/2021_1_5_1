@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2021-1 16강 최종전
-  - stage: R16F
-  - number: 1
-  - date: 2021-05-01
+  title: 2021-1 16강 최종전
+  season: 30
+  stage: R16F
+  number: 1
+  date: 2021-05-01
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: 4
-  - stage: GF
+  players: 4
+  stage: GF
 ---
 김승태	박현수	정승하	김기수	유창현	노준현	김지민	배성빈	트랙
 10	4	5	1	7	3	-1	0	올림포스 하늘의 신전

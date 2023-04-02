@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2020-1 32강 D조
-  - stage: R32
-  - number: 4
-  - date: 2020-02-01
+  title: 2020-1 32강 D조
+  season: 28
+  stage: R32
+  number: 4
+  date: 2020-02-01
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 tiebreaker: true
 ---
 문호준	김기수	최영훈	송용준	이재인	한승철	김주영	우성민	트랙

@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 32강 C조
-  - stage: R32
-  - number: 3
-  - date: 2022-03-12
+  title: 2022-1 32강 C조
+  season: 33
+  stage: R32
+  number: 3
+  date: 2022-03-12
 rule:
-  - points: 50
+  points: 50
 advances:
-  - players: [3, 2]
-  - stage: [R16, R32R]
+  players: [3, 2]
+  stage: [R16, R32R]
 comment: "최민영, 대리 게임으로 영구 실격, 나인창 대체 선발. 이창한, COVID-19 확진으로 기권, 7인 진행. 이창한 선수는 추후 수퍼컵 예선, KDL 프리시즌 1 등의 참가 자격을 유지함."
 ---
 박현수	임재원	심우혁	나인창	박인수	윤여민	송용준	트랙

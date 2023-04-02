@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 3차리그 1라운드 조별예선 GROUP A
-  - round: 1
-  - stage: R32
-  - number: 1
-  - date: 2006-02-25
+  title: 3차리그 1라운드 조별예선 GROUP A
+  season: 3
+  round: 1
+  stage: R32
+  number: 1
+  date: 2006-02-25
 rule:
-  - rounds: 5
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 5
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 tiebreaker: true
 ---
 김진용	한창민	김형철	손창완	김태호	이성광	이재성	임영노	트랙

@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2020-1 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2020-05-23
+  title: 2020-1 결승전 2세트
+  season: 28
+  stage: GF/2
+  number: 1
+  date: 2020-05-23
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 문호준	유창현	트랙
 1	0	공동묘지 마왕의 초대

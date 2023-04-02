@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 13차리그 2차예선 B조
-  - stage: R32
-  - number: 4
-  - date: 2011-03-24
+  title: 13차리그 2차예선 B조
+  season: 13
+  stage: R32
+  number: 4
+  date: 2011-03-24
 rule:
-  - points: 50
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 ---
 전대웅	이중선	김은일	양진호	안기준	김현태	원훈희	김현민	트랙
 10	7	5	3	0	2	-1	1	차이나 골목길 대질주

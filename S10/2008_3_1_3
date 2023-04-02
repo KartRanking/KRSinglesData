@@ -1,17 +1,18 @@
 ---
 matchspec: 
-  - title: 10차리그 1라운드 조별예선 GROUP C
-  - round: 1
-  - stage: R32
-  - number: 3
-  - date: 2008-10-04
+  title: 10차리그 1라운드 조별예선 GROUP C
+  season: 10
+  round: 1
+  stage: R32
+  number: 3
+  date: 2008-10-04
 rule:
-  - points: 50
-  - players_to_target: 2
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 50
+  players_to_target: 2
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 2
-  - stage: RF
+  players: 2
+  stage: RF
 ---
 장진형	김진희	조성제	안한별	조경신	윤헌상	정영석	채정민	트랙
 2	10	5	1	3	-5	7	0	[리버스] 포레스트 지그재그

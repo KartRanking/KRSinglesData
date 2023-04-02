@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 15차리그 GRAND FINAL
-  - stage: GF
-  - number: 1
-  - date: 2012-04-05
+  title: 15차리그 GRAND FINAL
+  season: 15
+  stage: GF
+  number: 1
+  date: 2012-04-05
 rule:
-  - points: 80
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 80
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 tiebreaker: true
 ---
 유영혁	전대웅	문호준	문명주	이중선	이중대	장진형	박정렬	트랙

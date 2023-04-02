@@ -1,14 +1,15 @@
 ---
 matchspec: 
-  - title: 2022-1 결승전 1세트
-  - stage: GF/1
-  - number: 1
-  - date: 2022-04-30
+  title: 2022-1 결승전 1세트
+  season: 33
+  stage: GF/1
+  number: 1
+  date: 2022-04-30
 rule:
-  - points: 80
+  points: 80
 advances:
-  - players: 2
-  - stage: GF/2
+  players: 2
+  stage: GF/2
 ---
 노준현	이재혁	박인수	박현수	배성빈	김다원	송용준	강다훈	트랙
 4	3	10	5	-1	7	1	0	마비노기 바올 던전

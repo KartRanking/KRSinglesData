@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 1차리그 2라운드 조별예선 GROUP B
-  - round: 2
-  - stage: R32
-  - number: 2
-  - date: 2005-06-02
+  title: 1차리그 2라운드 조별예선 GROUP B
+  season: 1
+  round: 2
+  stage: R32
+  number: 2
+  date: 2005-06-02
 rule:
-  - rounds: 5
-  - round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
+  rounds: 5
+  round_points: [8, 7, 6, 5, 4, 3, 2, 1, 0]
 advances:
-  - players: 4
-  - stage: RF
+  players: 4
+  stage: RF
 ---
 김대겸	박세훈	최의영	박기호	김윤호	권태윤	임동혁	강천희	트랙
 8	4	5	2	3	7	6	1	포레스트 지그재그

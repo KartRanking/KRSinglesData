@@ -1,16 +1,17 @@
 ---
 matchspec: 
-  - title: 2차리그 2라운드 조별예선 GROUP C
-  - round: 2
-  - stage: R32
-  - number: 3
-  - date: 2005-11-26
+  title: 2차리그 2라운드 조별예선 GROUP C
+  season: 2
+  round: 2
+  stage: R32
+  number: 3
+  date: 2005-11-26
 rule:
-  - rounds: 8
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  rounds: 8
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: 4
-  - stage: R16
+  players: 4
+  stage: R16
 comment: "이동훈 불참으로 7인전 진행."
 ---
 한창민	박재홍	김윤호	최성근	남재인	권태윤	김현욱	트랙

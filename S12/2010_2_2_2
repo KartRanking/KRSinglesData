@@ -1,15 +1,16 @@
 ---
 matchspec: 
-  - title: 12차리그 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2010-11-16
+  title: 12차리그 승자전
+  season: 12
+  stage: R16W
+  number: 1
+  date: 2010-11-16
 rule:
-  - points: 70
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 comment: "박준혁, 연속 트랙 동일 카트바디 탑승으로 10점 감점."
 ---
 문호준	전대웅	유영혁	박준혁	조경신	김은일	김택환	안한별	트랙

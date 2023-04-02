@@ -1,15 +1,16 @@
 ---
 matchspec: 
-  - title: 15차리그 승자전
-  - stage: R16W
-  - number: 1
-  - date: 2012-03-22
+  title: 15차리그 승자전
+  season: 15
+  stage: R16W
+  number: 1
+  date: 2012-03-22
 rule:
-  - points: 70
-  - round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
+  points: 70
+  round_points: [10, 7, 5, 3, 2, 1, 0, -1, -5]
 advances:
-  - players: [4, 4]
-  - stage: [GF, R16F]
+  players: [4, 4]
+  stage: [GF, R16F]
 ---
 전대웅	문호준	박인재	유영혁	이중선	문명주	장진형	박정렬	트랙
 5	3	1	2	-1	7	0	10	포레스트 아찔한 다운힐

@@ -1,12 +1,13 @@
 ---
 matchspec: 
-  - title: 2020-2 결승전 2세트
-  - stage: GF/2
-  - number: 1
-  - date: 2020-11-08
+  title: 2020-2 결승전 2세트
+  season: 29
+  stage: GF/2
+  number: 1
+  date: 2020-11-08
 rule:
-  - head_to_head: true
-  - points: 3
+  head_to_head: true
+  points: 3
 ---
 이재혁	송용준	트랙
 1	0	아이스 아찔한 헬기 점프
