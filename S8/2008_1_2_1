@@ -13,6 +13,7 @@ rule:
 advances:
   players: 3
   stage: GF
+navercafe: leaguekart/97
 comment: "장승우, 티밍으로 리그 실격 처리."
 ---
 장진형	김준	장승우	정선호	문호준	강석인	유임덕	강진우	트랙

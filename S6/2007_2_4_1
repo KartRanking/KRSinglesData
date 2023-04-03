@@ -12,6 +12,7 @@ rule:
 advances:
   players: 3
   stage: GF
+navercafe: leaguekart/86
 ---
 강진우	문호준	이재성	정선호	김진희	김선일	장진형	강석인	트랙
 3	10	5	1	7	2	0	-1	[리버스] 포레스트 지그재그

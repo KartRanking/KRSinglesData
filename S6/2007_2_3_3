@@ -12,6 +12,7 @@ rule:
 advances:
   players: 2
   stage: RF
+navercafe: leaguekart/85
 ---
 김진희	김선일	이요한	박지윤	김민규	김성태	송준우	이원선	트랙
 10	1	7	5	3	2	0	-1	[리버스] 포레스트 지그재그

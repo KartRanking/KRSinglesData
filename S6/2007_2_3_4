@@ -12,6 +12,7 @@ rule:
 advances:
   players: 2
   stage: RF
+navercafe: leaguekart/85
 ---
 장진형	강석인	강정민	김현준	이상우	이상윤	최봉석	김택환	트랙
 -1	3	5	0	7	10	1	2	[리버스] 포레스트 지그재그

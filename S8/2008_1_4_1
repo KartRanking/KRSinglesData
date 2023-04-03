@@ -13,6 +13,7 @@ rule:
 advances:
   players: 3
   stage: GF
+navercafe: leaguekart/99
 ---
 문호준	정선호	김준	오명기	유임덕	강진우	강석인	김진희	트랙
 3	10	5	0	2	1	7	-5	팩토리 미완성 5구역

@@ -12,6 +12,7 @@ rule:
 advances:
   players: 1
   stage: GF
+navercafe: leaguekart/52
 comment: "김경한, 티밍으로 8라운드에서 라운드 실격 처리 후 재경기."
 ---
 임영노	김경한	박재홍	조현준	김대겸	한창민	김진용	나수원	트랙

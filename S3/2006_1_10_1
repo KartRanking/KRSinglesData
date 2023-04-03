@@ -12,6 +12,7 @@ rule:
 advances:
   players: 5
   stage: GF
+navercafe: leaguekart/56
 comment: "이 경기부터 리그 모드 도입: 다른 플레이어가 모두 파란색 배찌에 같은 닉네임으로 보임."
 ---
 김대겸	조경재	김상기	임영노	박재홍	최의영	홍은표	나수원	트랙
